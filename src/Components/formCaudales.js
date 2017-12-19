@@ -22,7 +22,7 @@ let FormCaudales = (props) => {
  
         <Form inline onSubmit={handleSubmit} >
 
-     
+         
               
               <Field  className="campo"
                   name="h0"
@@ -122,7 +122,7 @@ let FormCaudales = (props) => {
                   />
               {' '}
               <Field className="campo"
-                  name="h2"
+                  name="h12"
                   type="number"
                   component='input'
                  placeholder="hora"
